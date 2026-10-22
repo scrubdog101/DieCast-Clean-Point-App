@@ -1,2 +1,1 @@
-# DieCast-Clean-Point-App
-DieCast Clean Point Verification System
+Upload all files to a new GitHub repository named DieCast-Clean-Point-App and enable GitHub Pages.
